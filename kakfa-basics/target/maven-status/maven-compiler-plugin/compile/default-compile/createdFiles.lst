@@ -1,0 +1,7 @@
+com/github/kafka/consumer/ConsumerDemoGroups.class
+com/github/kafka/producer/ProducerDemoWithCallback.class
+com/github/kafka/producer/ProducerDemo.class
+com/github/kafka/producer/ProducerDemoKeys$1.class
+com/github/kafka/producer/ProducerDemoWithCallback$1.class
+com/github/kafka/producer/ProducerDemoKeys.class
+com/github/kafka/consumer/ConsumerDemo.class
